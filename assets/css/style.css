@@ -641,7 +641,7 @@ section {
 }
 
 .features .icon-box i {
-  font-size: 48px;
+  font-size: 38px;
   float: left;
   color: #ffc451;
 }
@@ -692,7 +692,7 @@ section {
 .services .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .services .icon-box h4 a {
